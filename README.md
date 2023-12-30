@@ -1,5 +1,5 @@
 USAGE:
-CHANAGE PERMESSIONS TO A EXECUTE FILE:
+&& CHANAGE PERMESSIONS TO A EXECUTE FILE:
    ==>   chmod +x filename.sh
-RUN THE FULE
+&& RUN THE FULE
    ==>   ./filename.sh
